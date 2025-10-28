@@ -1,0 +1,162 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(90deg, #0b5892, #2563eb, #4f46e5);
+}
+
+h1 {
+    text-align: center;
+}
+
+.navbar ul{
+    overflow: hidden;
+    list-style-type: none;
+    background-image: url(s.jpg);
+    opacity: 85%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar a {
+    color: rgb(255, 255, 255);
+    opacity: 100%;
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+    display: block;
+    font-weight: 500;
+}
+
+.navbar a:hover {
+    background-color: hsla(0, 0%, 87%, 0.616);
+}
+
+.navbar li{
+    float: left;
+}
+
+main{
+    text-align: center;
+}
+
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.cardboneca {
+    width: 350px;
+    height: 400px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.imgboneca {
+    position: absolute;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.titulob {
+    position: absolute;
+    margin-left: 327px;
+    margin-right: 75px;
+    top: 350px;
+}
+
+.soletra {
+    font-size: larger;
+    position: absolute;
+    margin-left: 210px;
+    margin-right: 75px;
+    top: 390px;
+}
+
+.bonecasoletrada {
+    font-size: larger;
+    position: absolute;
+    margin-left: 320px;
+    margin-right: 75px;
+    top: 435px;
+}
+
+.audioboneca{
+    font-size: larger;
+    position: absolute;
+    margin-left: 295px;
+    margin-right: 75px;
+    top: 500px;
+    background:linear-gradient(90deg, #0b5892, #2563eb, #4f46e5);
+    padding: 8px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.cardmacaco {
+    width: 350px;
+    height: 400px;
+    margin-left: 800px;
+    margin-right: 200px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -400px;
+}
+
+.imgmacaco {
+    position: absolute;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.titulom {
+    position: absolute;
+    margin-left: 935px;
+    margin-right: 75px;
+    top: 350px;
+}
+
+.soletramacaco {
+    font-size: larger;
+    position: absolute;
+    margin-left: 835px;
+    margin-right: 75px;
+    top: 390px;
+}
+
+.macacosoletrado {
+    font-size: larger;
+    position: absolute;
+    margin-left: 920px;
+    margin-right: 75px;
+    top: 435px;
+}
+
+.audiomacaco{
+    font-size: larger;
+    position: absolute;
+    margin-left: 907px;
+    margin-right: 75px;
+    top: 500px;
+    background:linear-gradient(90deg, #0b5892, #2563eb, #4f46e5);
+    padding: 8px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.youtube img{
+    font-size: larger;
+    width: 30px;
+    height: 25px;
+    margin-left: 10px;
+}
